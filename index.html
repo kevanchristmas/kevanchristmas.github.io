@@ -4,7 +4,8 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% assign filtered_posts = paginator.posts | where_exp: "p", "p.tags contains 'sandbox' == false" %}
+  {% for post in filtered_posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
@@ -18,6 +19,7 @@ title: Home
   </div>
   {% endfor %}
 </div>
+
 
 <div class="pagination">
   {% if paginator.next_page %}
