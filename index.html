@@ -4,21 +4,23 @@ title: Home
 ---
 
 <div class="posts">
-  {% assign filtered_posts = paginator.posts | where_exp: "p", "p.tags contains 'sandbox' == false" %}
-  {% for post in filtered_posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+  {% for post in paginator.posts %}
+    {% unless post.tags contains 'sandbox' %}
+    <div class="post">
+      <h1 class="post-title">
+        <a href="{{ post.url | absolute_url }}">
+          {{ post.title }}
+        </a>
+      </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+      <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content | markdownify | strip_html | truncatewords: 50 }}
-  </div>
+      {{ post.content | markdownify | strip_html | truncatewords: 50 }}
+    </div>
+    {% endunless %}
   {% endfor %}
 </div>
+
 
 
 <div class="pagination">
