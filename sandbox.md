@@ -11,20 +11,16 @@ Anything that doesn't make it into the MVP...
 - Rescue animals from previous blogs
 - Other etc.
 
-<ul>
-{% assign posts_sorted = site.posts | sort: 'date' | reverse %}
-{% for post in posts_sorted %}
-  {% assign is_sandbox = false %}
-  {% for t in post.tags %}
-    {% if t | downcase | strip == 'sandbox' %}
-      {% assign is_sandbox = true %}
-    {% endif %}
-  {% endfor %}
-  {% if is_sandbox %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>— {{ post.date | date: "%d %b %Y" }}</small>
-    </li>
+<ul class="post-list">
+  {% assign sandbox_posts = site.tags.sandbox | sort: 'date' | reverse %}
+  {% if sandbox_posts and sandbox_posts != empty %}
+    {% for post in sandbox_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small> — {{ post.date | date: "%d %b %Y" }}</small>
+      </li>
+    {% endfor %}
+  {% else %}
+    <li><em>No posts tagged <code>sandbox</code> yet.</em></li>
   {% endif %}
-{% endfor %}
 </ul>
