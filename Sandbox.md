@@ -16,17 +16,21 @@ Anything that doesn't make it into the MVP:
 {% if sandbox_posts.size > 0 %}
 ## Latest from the Sandbox
 <ul>
-  {% for post in sandbox_posts %}
+{% assign posts_sorted = site.posts | sort: 'date' | reverse %}
+{% for post in posts_sorted %}
+  {% assign taglist = post.tags | join: ',' | downcase | split: ',' %}
+  {% if taglist contains 'sandbox' %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>— {{ post.date | date: "%d %b %Y" }}</small>
-      <br>
+      <small>— {{ post.date | date: "%d %b %Y" }}</small><br>
       <em>Tags: {{ post.tags | join: ", " }}</em>
     </li>
-  {% endfor %}
+  {% endif %}
+{% endfor %}
 </ul>
-{% else %}
+
+{% unless site.posts %}
 <em>Tag any post with <code>tags: [sandbox]</code> to show up here.</em>
-{% endif %}
+{% endunless %}
 
 
