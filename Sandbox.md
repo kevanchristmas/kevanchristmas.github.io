@@ -5,7 +5,12 @@ permalink: /sandbox/
 ---
 
 # 🏖️ Sandbox  
-A playful space for fun extras, small experiments, and odd little ideas.
+
+Anything that doesn't make it into the MVP:
+- Quick (read: half-baked) thoughts and ideas
+- Rescue animals from previous blogs
+- Any interesting projects or finds
+- etc.
 
 {% assign sandbox_posts = site.posts | where_exp:"p","p.tags contains 'sandbox'" %}
 {% if sandbox_posts.size > 0 %}
