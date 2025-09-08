@@ -9,7 +9,11 @@ tags: AI_Data Product
 ---
 ![](https://kevanchristmas.github.io/public/assets/Smith.jpg)
 
-> Ready when you are...
+<p align="center">
+  <img src="https://kevanchristmas.github.io/public/assets/Smith.jpg?raw=true" alt=""/>
+</p>
+
+> Let's prioritise your backlog. Ready when you are Mr. Anderson...
 
 ## tl:dr
 
@@ -24,6 +28,7 @@ tags: AI_Data Product
 Let me get the remaining AI generated meme references out of the way first. I promise  then it's just very clever - walls of text all the way down.
 
 ![](https://kevanchristmas.github.io/public/assets/Agentic_memes.jpg)
+
 
 I recently completed a Product x AI Playbook detailing the applications, workflows and implementation of AI as both a way to expedite delivery across the Development Lifecycle (Discover, Validate, Build, Launch, Evaluate, Iterate) and for building AI features and products. It was changing almost daily with news of new ways to embed, extend or orchestrate. It felt a lot like the picture on the left above and by the end of it I felt like the picture on the right.
 
