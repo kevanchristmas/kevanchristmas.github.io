@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art of Maths
-tags: Living Maths [sandbox]
+tags: [Living, Maths, sandbox]
 ---
 
 ##  tl;dr

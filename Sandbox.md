@@ -5,17 +5,9 @@ permalink: /sandbox/
 ---
 
 # 🏖️ Sandbox  
+A playful space for fun extras, small experiments, and odd little ideas.
 
-A bunch of things that don't make it into the MVP...
-
-- Quick (read:half-baked) ideas and thoughts
-- Weird interests/projects
-- Random rescue animals from previous blogs
-- etc.
-
----
-
-{% assign sandbox_posts = site.posts | where_exp:"p","p.categories contains 'sandbox'" %}
+{% assign sandbox_posts = site.posts | where_exp:"p","p.tags contains 'sandbox'" %}
 {% if sandbox_posts.size > 0 %}
 ## Latest from the Sandbox
 <ul>
@@ -23,10 +15,13 @@ A bunch of things that don't make it into the MVP...
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <small>— {{ post.date | date: "%d %b %Y" }}</small>
+      <br>
+      <em>Tags: {{ post.tags | join: ", " }}</em>
     </li>
   {% endfor %}
 </ul>
 {% else %}
-<em>Tag any post with <code>categories: [sandbox]</code> to have it show up here.</em>
+<em>Tag any post with <code>tags: [sandbox]</code> to show up here.</em>
 {% endif %}
+
 
