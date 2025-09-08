@@ -74,7 +74,7 @@ This model works because customers don’t optimise every dollar, every day.
 
 Agentic AI changes that. Optimisation becomes continuous and automatic. Margins once protected by opacity are exposed.
 
-Where [McKinsey](https://www.mckinsey.com/industries/financial-services/our-insights/the-end-of-inertia-agentic-ais-disruption-of-retail-and-sme-banking) described this as the “collapse of inertia,”¹ it might as well be called the **end of margin opacity**. The subsidy disappears because agents act relentlessly in the customer’s interest.
+Where [McKinsey](https://www.mckinsey.com/industries/financial-services/our-insights/the-end-of-inertia-agentic-ais-disruption-of-retail-and-sme-banking) described this as the “collapse of inertia,” it might as well be called the **end of margin opacity**. The subsidy disappears because agents act relentlessly in the customer’s interest.
 
 Examples are already here:
 
@@ -149,6 +149,8 @@ For Financial Services, this is an existential shift. Margins built on opacity w
 
 Okay.. (I know I said no more) but it's not all threat :
 
-![](https://kevanchristmas.github.io/public/assets/Lookwoody.jpg)
+<p align="center">
+  <img src="https://kevanchristmas.github.io/public/assets/Lookwoody.jpg?raw=true" alt=""/>
+</p>
 
 The opportunity, is equally profound. Those who design for both humans and agents, who own the right control points, and who practice focused restraint in what they build, will shape the next era of finance. Those who don’t may find themselves invisible — present on the balance sheet, but absent from the choices agents make.
