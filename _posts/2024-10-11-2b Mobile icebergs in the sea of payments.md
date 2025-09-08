@@ -36,8 +36,7 @@ Now the warning... When you start explaining 'Payments' in terms of the processi
 
 (If you want to try this fun game in a safe and well padded space you can walk through the below diagram - explaining each of the actors and steps if you want full tonic immobility).
 
-![](https://kevanchristmas.github.io/public/assets/Payment_coma.png)
-[![](https://kevanchristmas.github.io/public/assets/Payment_coma_dozy.png) "Click to view full size image")](![/path/to/iceberg-full.jpg](https://kevanchristmas.github.io/public/assets/Payment_coma_full.png))
+[![](https://kevanchristmas.github.io/public/assets/Payment_coma_dozy.png) "Click to view full size image")](![(https://kevanchristmas.github.io/public/assets/Payment_coma_full.png)])
 
 Now for the good news - mobile banking has revolutionised payments and this is what an AI image [generator](https://www.craiyon.com/) thinks that looks like:
 
