@@ -7,13 +7,12 @@ title: Never send a human to do a machine's job
 tags: AI_Data Product
 
 ---
-![](https://kevanchristmas.github.io/public/assets/Smith.jpg)
 
 <p align="center">
   <img src="https://kevanchristmas.github.io/public/assets/Smith.jpg?raw=true" alt=""/>
 </p>
 
-> Let's prioritise your backlog. Ready when you are Mr. Anderson...
+> Let's prioritise the backlog. Ready when you are Mr. Anderson...
 
 ## tl:dr
 
