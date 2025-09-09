@@ -131,7 +131,7 @@ Differentiation in this world won’t come from owning the most advanced model a
     
 The Product Manager's timeless question remains: _What do I build, and why will it win?_. But the answer must now be valid for both a human customer and the AI agent representing them.
 
-The future craft of Product is not just acceleration, but orchestration — knowing where to apply AI, where to defer to agents, and where to differentiate through uniquely human value.
+The future craft of Product is not just acceleration, but orchestration, that is knowing where to apply AI, where to defer to agents, and where to differentiate through uniquely human value.
 
 AI began as an accelerator: faster research, faster prototypes, faster builds. It is now evolving into a market participant, capable of making and executing decisions on behalf of customers.
 
