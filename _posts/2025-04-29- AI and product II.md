@@ -18,13 +18,13 @@ tags: AI_Data Product
 
 1. Explicit: AI is already moving from acceleration to autonomy
 2. Implicit: It's going to change both Product Delivery _and_ the Financial Services business model 
-3. Tacit: Adapt or die
+3. Tacit: Adaptation will be unavoidable
 4. Beyond the event horizon... there's always opportunity
 
 
 **_Intro and Warning_:**
 
-Let me get the remaining AI generated meme references out of the way first. I promise  then it's just very clever - walls of text all the way down.
+Let me get the remaining AI generated meme references out of the way first. I promise then it's just very clever - walls of text all the way down.
 
 ![](https://kevanchristmas.github.io/public/assets/Agentic_memes.jpg)
 
@@ -33,7 +33,7 @@ I recently completed a Product x AI Playbook detailing the applications, workflo
 
 ## 1. Mirror - Signal - Manoeuver  
 
-The first wave of Generative AI (GenAI) in Product was about **acceleration**. It enables teams to compress weeks of effort into days, replacing manual drudgery with automated leverage.
+The first wave of Generative AI (GenAI) in Product was about **acceleration**. It enables teams to compress weeks of effort into days, replacing grind with automated leverage.
 
 Every product manager should recognize these shifts:
 
@@ -50,21 +50,21 @@ Every product manager should recognize these shifts:
     - Customise (20 min)
     - Ship
 
-Research followed the same pattern. What once took 19 hours across 2 weeks (recording, transcription, clustering, writing insights) can now be reduced to about 10.5 hours in a few days. Slide creation collapsed from 7–8 hours of blank-slide paralysis to 2–3 hours focused on design and delivery.
+Research followed the same pattern. What once took for example +19 hours across 2 weeks (recording, transcription, clustering, writing insights) can now be reduced to about 10 hours in a few days. Slide creation collapsed from 7–8 hours of blank-slide paralysis to 2–3 hours focused on design and delivery.
 
-The playbook codified these gains: especially regarding GenAI as a workflow enhancer. It was pragmatic and useful — but it also assumed a constant: humans would remain the ultimate decision-makers.
+The playbook codified these gains: especially regarding GenAI as a workflow enhancer. It was pragmatic and useful, but it also assumed a constant: humans would remain the ultimate decision-makers.
 
 That assumption no longer holds. As much as I hate to say it, Agentic AI represents the next phase. These systems don’t just generate; they decide and act. Leaving aside for a moment the impending "Product Managerbot", it's pretty obvious that the move from co-pilot into participant extends to markets themselves. 
 
-- A TravelBot won't just draft an itinerary — it books it.
-- A SaveBot won't just recommend a balance sweep — it executes it.
-- A finance agent won't just suggest the best card — it switches transactions in real time.
+- A TravelBot won't just draft an itinerary, it books it.
+- A SaveBot won't just recommend a balance sweep, it executes it.
+- A finance agent won't just suggest the best card, it switches transactions in real time.
 
 Whether by Agent Smith or yours truly, products will increasingly have to be designed for an environment where AI agents can transact, optimise and arbitrate on behalf of customers.
 
 ## 2. Not so fuzzy Margins
 
-Financial Services profitability has long rested on what could be politely called the **quiet subsidy of inefficiency**:
+Financial Services profitability has long rested on what could be politely called the **subsidy of inefficiency**:
 
 - Low-yield deposits left untouched.
 - Credit-card rewards unredeemed.
@@ -89,7 +89,7 @@ Products cannot rely on hidden spreads or consumer inertia for profitability. In
 
 ## 3. Is that for me?...
 
-If agents are becoming active participants, then **product design must adapt**. Loyalty will still matter, but it will increasingly be mediated by algorithms optimising for outcomes.
+If agents are becoming active participants, then product design must adapt. Loyalty will still matter, but it will increasingly be mediated by algorithms optimising for outcomes.
 
 That requires FS products to become **AI-facing as well as human-facing**:
 
@@ -99,7 +99,7 @@ That requires FS products to become **AI-facing as well as human-facing**:
 
 In effect, this is **SEO for agents.** Just as websites were redesigned to be legible to search engines, FS products must now be designed to be legible to AI agents.
 
-The product manager’s task changes. It is no longer just about human UX — although that still matters for brand affinity and trust. It is about building **dual-facing products**: experiences compelling to humans but also optimisable by algorithms.
+The product manager’s task changes. It is no longer just about human UX, although that still matters for brand affinity and trust. It is about building dual-facing products: experiences compelling to humans but also optimisable by algorithms.
 
 Strategic questions to ask:
 
@@ -111,15 +111,15 @@ Product strategy must extend to mapping how AI systems will discover, parse, and
 
 ##  We're not in Kansas anymore
 
-When AI lowers the cost of creating features to nearly zero, **speed is no longer the scarce resource**. The scarce resource becomes **judgment**.
+When AI lowers the cost of creating code and features to nearly zero, **speed is no longer the scarce resource**. The scarce resource becomes **judgement**.
 
-This demands a new craft for Product Managers: what could be termed  **focused restraint**.
+This demands a new craft for Product Managers: what could be termed focused restraint.
 
-- Experiment widely, but cut ruthlessly.
+- Experiment widely using lots more data but cut ruthlessly.
 - Invest in features that matter both to human trust _and_ to agent logic.
 - Balance automation with areas where emotional resonance or human reassurance still creates stickiness.
     
-Differentiation in this world won’t come from owning the most advanced model — those are commoditising fast. It will come from:
+Differentiation in this world won’t come from owning the most advanced model as those are commoditising fast. It will come from:
 
 - **Proprietary data assets** that agents cannot replicate.
     
@@ -129,8 +129,7 @@ Differentiation in this world won’t come from owning the most advanced model �
     
 - **Human-layer experiences** that create emotional preference beyond raw optimisation.
     
-The PM’s timeless question remains: _What do I build, and why will it win?_  
-But the answer must now be valid for both the **human customer** and the **AI agent** representing them.
+The Product Manager's timeless question remains: _What do I build, and why will it win?_. But the answer must now be valid for both a human customer and the AI agent representing them.
 
 The future craft of Product is not just acceleration, but orchestration — knowing where to apply AI, where to defer to agents, and where to differentiate through uniquely human value.
 
@@ -138,14 +137,14 @@ AI began as an accelerator: faster research, faster prototypes, faster builds. I
 
 - **Acceleration → Autonomy.**
     
-- **Quiet subsidy of inefficiency → Transparent optimisation.**
+- **Subsidy of inefficiency → Transparent optimisation.**
     
 - **Human-only design → Dual-facing design (humans + agents).**
     
 - **Speed → Focused restraint.**
     
 
-For Financial Services, this is an existential shift. Margins built on opacity will collapse. Distribution will be algorithmic. Loyalty will be redefined.
+For Financial Services, this is beginning to look like an existential shift. Margins built on opacity will collapse, distribution becomes more algorithmic and Loyalty could be redefined.
 
 Okay.. (I know I said no more) but it's not all threat :
 
@@ -153,4 +152,4 @@ Okay.. (I know I said no more) but it's not all threat :
   <img src="https://kevanchristmas.github.io/public/assets/Lookwoody.jpg?raw=true" alt=""/>
 </p>
 
-The opportunity, is equally profound. Those who design for both humans and agents, who own the right control points, and who practice focused restraint in what they build, will shape the next era of finance. Those who don’t may find themselves invisible — present on the balance sheet, but absent from the choices agents make.
+The opportunity, is equally profound. Greater focused productivity - those who design for both humans and agents, who own the right control points, and who practice this focused restraint in what they build, could shape the next era of both Product Management and finance.
