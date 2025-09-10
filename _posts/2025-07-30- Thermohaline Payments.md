@@ -80,5 +80,5 @@ The winners won’t just be those mastering the customer experience and the 'bel
 
 Icebergs after all, ride on something and it’s these currents that decide where money can go. 
 
-**N.B.** For reference, I've also decided to officially retire this metaphor (I should probably stop using them at all - a digital descriptive detox sounds good? At least there was only one cheesey meme...)
+**N.B.** For reference, I've also decided to officially retire this metaphor (I should probably stop using them at all - a digital descriptive detox sounds good? At least there was only one cheesy meme...)
 
