@@ -8,7 +8,9 @@ tags: [AI_Data, Product, Payments, Banking_FS]
 
 ---
 
-![](https://kevanchristmas.github.io/public/assets/thermohaline2.jpg)
+<p align="center">
+  <img src="https://kevanchristmas.github.io/public/assets/thermohaline2.jpg?raw=true" alt=""/>
+</p>
 
 > (**Thermohaline circulation shifts** → changes in deep currents driven by temperature (thermo) and salinity (haline))
 
