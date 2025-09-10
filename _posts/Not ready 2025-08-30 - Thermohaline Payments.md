@@ -10,7 +10,7 @@ tags: [AI_Data, Product, Payments, Banking_FS]
 
 
 <p align="center">
-  <img src="https://kevanchristmas.github.io/public/assets/thermohaline 2.jpg?raw=true" alt=""/>
+  <img src="https://kevanchristmas.github.io/public/assets/thermohaline2.jpg?raw=true" alt=""/>
 </p>
 
 > (**Thermohaline circulation shifts** → changes in deep currents driven by temperature (thermo) and salinity (haline))
@@ -27,20 +27,20 @@ I've been doing more work on AI and [Product](https://kevanchristmas.github.io/2
 
 ## 1. Payments are driven by the invisible currents in the [sea](https://kevanchristmas.github.io/2024/10/11/2b-Mobile-icebergs-in-the-sea-of-payments/) 
 
-Okay, the iceberg metaphor needs to degrade a bit (due to AI induced warming perhaps?) but it still holds insofar as the difference between the surface (ie what the customer sees) and the submerged infrastructure. However, We’re no longer talking just about heavy “infrastructure” — the physical rails and high volume hard tech processes often laid down decades ago. What’s emerging now is more subtle: deep currents powered by software and AI. They don’t just move money physically. They move it intelligently. 
+Okay, the iceberg metaphor needs to degrade a bit (due to AI induced warming perhaps?) but it still holds insofar as the difference between the surface (ie what the customer sees) and the submerged infrastructure. However, We’re no longer talking just about heavy “infrastructure” - the physical rails and high volume hard tech processes often laid down decades ago. What’s emerging now is more subtle: deep currents powered by software and AI. They don’t just move money physically. They move it intelligently. 
 
 Here's a few items from the ever gushing stream of payments news: 
 
-- Samsung Wallet BNPL — installments embedded directly in-store, powered by hidden credit and risk layers ([via Android Central](https://www.androidcentral.com/apps-software/samsung-wallet-now-lets-you-split-in-store-payments-into-installments/)).
+- Samsung Wallet BNPL: installments embedded directly in-store, powered by hidden credit and risk layers ([via Android Central](https://www.androidcentral.com/apps-software/samsung-wallet-now-lets-you-split-in-store-payments-into-installments/)).
     
-- X Money with Visa — payments stitched into social conversations, wallet funding and instant payouts behind the scenes ([via Reuters](https://www.reuters.com/technology/x-seals-payments-deal-with-visa-push-toward-musks-everything-app-goal-source-2025-01-28/)).
+- X Money with Visa: payments stitched into social conversations, wallet funding and instant payouts behind the scenes ([via Reuters](https://www.reuters.com/technology/x-seals-payments-deal-with-visa-push-toward-musks-everything-app-goal-source-2025-01-28/)).
     
-- Wero rollout in Europe*— sovereignty encoded into a pan-European wallet, invisible to users but reshaping the pipes of commerce ([via BNP Paribas](https://group.bnpparibas/en/news/wero-a-new-european-instant-payment-solution/)).
+- Wero rollout in Europe: sovereignty encoded into a pan-European wallet, invisible to users but reshaping the pipes of commerce ([via BNP Paribas](https://group.bnpparibas/en/news/wero-a-new-european-instant-payment-solution/)).
 
 
 ## 2. What's going on down there?...
 
-Thought about in this way, competition no longer lives only on the surface of apps (once were icebergs - if that's not clear from the previous metaphor (－‸ლ) ). It's now increasingly living in the currents.
+Thought about in this way, competition no longer lives only on the surface of apps (once were icebergs - if that's not clear from the previous metaphor (－‸ლ) see NB below). It's now increasingly living in the currents.
 - Whose **fraud AI** approves more transactions, more safely?
     
 - Whose **orchestration engines** optimise routing and lower costs?
@@ -48,7 +48,7 @@ Thought about in this way, competition no longer lives only on the surface of ap
 - Whose **credit and loyalty flows** are seamlessly embedded in the payment?
     
 
-Generative AI is now being deployed in these currents — automating reconciliation, risk monitoring, and compliance like KYC (Know Your Customer - a crucial process that financial institutions and other regulated businesses use to verify the identity of their clients.) ([via ThoughtWorks](https://www.thoughtworks.com/en-us/insights/articles/streamlining-compliance--how-generative-ai-revolutionizes-know-y/)).
+Generative AI is now being deployed in these currents - automating reconciliation, risk monitoring, and compliance like KYC (Know Your Customer - a crucial process that financial institutions and other regulated businesses use to verify the identity of their clients.) ([via ThoughtWorks](https://www.thoughtworks.com/en-us/insights/articles/streamlining-compliance--how-generative-ai-revolutionizes-know-y/)).
 
 So there's some choreography needed.
 
