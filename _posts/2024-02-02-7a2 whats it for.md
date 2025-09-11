@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is kevanchristmas.github.io for?
-tags: Living The_system
+tags: [Living, The_system, sandbox]
 ---
 
 ## tl;dr
