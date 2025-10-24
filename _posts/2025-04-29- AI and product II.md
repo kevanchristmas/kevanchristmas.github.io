@@ -24,7 +24,7 @@ tags: AI_Data Product
 
 **_Intro and Warning_:**
 
-Let me get the remaining AI generated meme references out of the way first. I promise then it's just very clever - walls of text all the way down.
+Let me get the remaining AI generated meme references out of the way first. I promise then it's just very clever walls of text all the way down.
 
 ![](https://kevanchristmas.github.io/public/assets/Agentic_memes.jpg)
 
