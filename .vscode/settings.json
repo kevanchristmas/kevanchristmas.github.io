@@ -1,8 +1,13 @@
 {
-    "markdown.styles": [
-        "public/css/lanyon.css",
-        "public/css/poole.css",
-        "public/css/syntax.css",
-        "https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400"
-    ]
+  "markdown.styles": [
+    "/Users/kevanchristmas/Documents/GitHub/kevanchristmas.github.io/public/css/preview-fonts.css",
+    "/Users/kevanchristmas/Documents/GitHub/kevanchristmas.github.io/public/css/poole.css",
+    "/Users/kevanchristmas/Documents/GitHub/kevanchristmas.github.io/public/css/lanyon.css",
+    "/Users/kevanchristmas/Documents/GitHub/kevanchristmas.github.io/public/css/syntax.css"
+  ],
+  "markdown.preview.fontSize": 16,
+  "markdown.preview.lineHeight": 1.7,
+  "markdown.preview.scrollEditorWithPreview": true,
+  "markdown.preview.scrollPreviewWithEditor": true,
+  "markdown.preview.markEditorSelection": true
 }

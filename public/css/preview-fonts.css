@@ -1,0 +1,50 @@
+/* === local fonts for VS Code preview === */
+
+/* PT Serif body text */
+@font-face {
+  font-family: 'PT Serif';
+  src: url('../fonts/PTSerif-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'PT Serif';
+  src: url('../fonts/PTSerif-Italic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* PT Serif Caption (for bold) */
+@font-face {
+  font-family: 'PT Serif';
+  src: url('../fonts/PTSerifCaption-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+/* PT Sans headings */
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/PTSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/PTSans-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+html, body, p, li {
+  font-family: 'PT Serif', Georgia, serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'PT Sans', Helvetica, Arial, sans-serif !important;
+}
+
+body {
+  max-width: 740px !important;
+  margin: 3rem auto !important;
+  padding: 0 1rem !important;
+  line-height: 1.7;
+  background: #fff;
+  color: #333;
+}
